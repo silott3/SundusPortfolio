@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects: </h2>
 
-- <br/><a href="https://github.com/silott3/Sundus-s-Quiz-Game/blob/main/Quiz%20Game.py">Sundus's Python Quiz Game</a> 
+<br/><a href="https://github.com/silott3/Sundus-s-Quiz-Game/blob/main/Quiz%20Game.py">Sundus's Python Quiz Game</a> 
 
 
 <h2>🌻I'm Currently Learning</h2>
