@@ -1,6 +1,8 @@
 <h1>Hi, I'm Sundus! <br/><a href="https://www.linkedin.com/in/s-i-5055a11b7/">Aspiring Tech Career Switcher</a>, <a href="https://www.linkedin.com/in/s-i-5055a11b7/">AI Enthusiast</a>, <a href="https://www.linkedin.com/in/s-i-5055a11b7/">Sales and Customer Service</a></h1>
 
-<h2>👨‍💻 Software Development Projects Coming Soon:</h2>
+<h2>👨‍💻 Software Development Projects: </h2>
+
+- Quiz Game.py
 
 
 <h2>🌻I'm Currently Learning</h2>
