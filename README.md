@@ -7,9 +7,7 @@
 
 <h2>🌻I'm Currently Learning</h2>
 
-- Python
-
-- Github
+- Python programming language.
 
 <h2>🤔 I’d Be Interested in: </h2>
 
