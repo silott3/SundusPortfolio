@@ -16,13 +16,13 @@
 - Tech events I can attend??
 - Other career or networking events I can attend 
 - Coding resources
-- You can chat to me about how your career's like an stuff
+- You can chat to me about how your career's like and stuff
 
 
 <h2>🤔Things you Can Tell me About/ Convo Starters: </h2>
 
 - What you do for work?
-- Your dreams/aspiratioms/goals?
+- Your dreams/aspirations/goals?
 - Productivity/finance tips and tricks?
 - Do you have a pet?
 
