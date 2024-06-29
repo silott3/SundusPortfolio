@@ -17,7 +17,7 @@
 - Tech events I can attend??
 - Other career or networking events I can attend 
 - Coding resources
-- You can chat to me about how your career's like and stuff
+- Would be interested to know more about your career
 
 
 <h2>🤔Things you Can Tell me About/ Convo Starters: </h2>
